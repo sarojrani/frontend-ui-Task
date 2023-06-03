@@ -2,10 +2,10 @@
   "name": "frontend-ui-task",
   "version": "1.0.0",
   "description": "frontend job portal task",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
-    "start": "npx parcel index.html",
-    "build": "npx parcel build index.html",
+    "start": "parcel index.html",
+    "build": " parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
