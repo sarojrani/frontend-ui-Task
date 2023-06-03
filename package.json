@@ -2,7 +2,7 @@
   "name": "frontend-ui-task",
   "version": "1.0.0",
   "description": "frontend job portal task",
-  "main": "App.js",
+ 
   "scripts": {
     "start": "parcel index.html",
     "build": " parcel build index.html",
